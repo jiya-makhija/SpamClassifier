@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f1c7192-9ee9-40e4-9957-42edb4949989" name="Changes" comment="Final Commit - User Interaction">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spam_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/spam_classification.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="2f1c7192-9ee9-40e4-9957-42edb4949989" name="Changes" comment="Final Commit - Visualisation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722622926880</updated>
-      <workItem from="1722626644918" duration="7963000" />
+      <workItem from="1722626644918" duration="8532000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -157,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722631852183</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Final Commit - Visualisation">
+      <option name="closed" value="true" />
+      <created>1722635051587</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722635051587</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final Commit - Visualisation">
+      <option name="closed" value="true" />
+      <created>1722635461048</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722635461048</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +180,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Final Commit" />
     <MESSAGE value="Final Commit - User Interaction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Commit - User Interaction" />
+    <MESSAGE value="Final Commit - Visualisation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit - Visualisation" />
   </component>
 </project>
