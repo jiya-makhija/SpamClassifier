@@ -8,7 +8,7 @@ The aim of this project is to develop a machine learning model that can accurate
 
 ## Dataset
 
-The dataset used for this project contains SMS messages that are labeled as spam or ham. It is structured as follows:
+The dataset (spam.csv) used for this project contains SMS messages that are labeled as spam or ham. It is structured as follows:
 
 - **label**: The class label (ham = 0, spam = 1).
 - **message**: The raw SMS message text.
@@ -27,3 +27,12 @@ Before running this project, ensure you have the following installed:
 - NLTK
 - Matplotlib
 - Seaborn
+
+## Model Architecture
+
+The model (in spam_classification.ipynb) is a neural network built using the Keras Sequential API. It consists of the following layers:
+
+- **Input Layer**: Defines the input shape for the model.
+- **Dense Layer 1**: A fully connected layer with ReLU activation.
+- **Dense Layer 2**: A second fully connected layer with ReLU activation.
+- **Output Layer**: A single neuron with sigmoid activation for binary classification.
